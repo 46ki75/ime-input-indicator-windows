@@ -452,6 +452,7 @@ name = "ime-input-indicator-windows"
 version = "0.1.0"
 dependencies = [
  "systray",
+ "winapi",
 ]
 
 [[package]]
